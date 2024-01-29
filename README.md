@@ -1,4 +1,10 @@
-### Hi there 👋
+### 👋 Hi there! I'm a Software Engineering student at the University of Buenos Aires, passionate about expanding my knowledge and always eager to take on new challenges.
+
+I thrive on continuous improvement, embracing the mindset of a lifelong learner. Whether it's coding, problem-solving, or exploring emerging technologies, I'm committed to pushing my boundaries.
+
+Open to new opportunities and experiences, I'm actively seeking ways to contribute and collaborate. If you have an interesting project or opportunity, feel free to reach out! 🌟
+
+📬 Connect with me: meliijaureguii@gmail.com
 
 <!--
 **melijauregui/melijauregui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
