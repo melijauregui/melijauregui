@@ -1,6 +1,4 @@
-### 👋 Hi there! I'm a Software Engineering student at the University of Buenos Aires, passionate about expanding my knowledge and always eager to take on new challenges.
-
-I thrive on continuous improvement, embracing the mindset of a lifelong learner. Whether it's coding, problem-solving, or exploring emerging technologies, I'm committed to pushing my boundaries.
+### Hi! I'm a Software Engineering student at the University of Buenos Aires, passionate about expanding my knowledge and always eager to take on new challenges.
 
 Open to new opportunities and experiences, I'm actively seeking ways to contribute and collaborate. If you have an interesting project or opportunity, feel free to reach out! 🌟
 
