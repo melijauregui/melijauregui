@@ -2,7 +2,7 @@
 
 Open to new opportunities and experiences, I'm actively seeking ways to contribute and collaborate. If you have an interesting project or opportunity, feel free to reach out 🌟
 
-📬 Connect with me: meliijaureguii@gmail.com
+Connect with me: meliijaureguii@gmail.com
 
 <!--
 **melijauregui/melijauregui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
