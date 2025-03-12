@@ -1,4 +1,4 @@
-# Hi! I'm a Software Engineering student at the University of Buenos Aires, always open to new challenges.
+Hi! I'm a Software Engineering student at the University of Buenos Aires, always open to new challenges.
 
 If you have an interesting project, feel free to reach out :)
 
